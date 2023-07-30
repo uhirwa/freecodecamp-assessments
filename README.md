@@ -1,4 +1,4 @@
-# freecodecamp-assessments
+# freecodecamp-assessments on responsive web design
 
 freecodecamp certificate link
 
